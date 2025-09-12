@@ -8,7 +8,7 @@ I specialize in developing high-performance ML systems, blending model optimizat
 
 I’m always looking for ways to push models closer to production—faster, lighter, and smarter—all while keeping a sense of curiosity (and a steady supply of coffee ☕).<br>
 
-##  Socials:
+#  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-sharma-2852b927a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adisharmaruda1@gmail.com) 
 
 #  Tech Stack:
