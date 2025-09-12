@@ -8,12 +8,12 @@ I specialize in developing high-performance ML systems, blending model optimizat
 
 I’m always looking for ways to push models closer to production—faster, lighter, and smarter—all while keeping a sense of curiosity (and a steady supply of coffee ☕).<br>
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-sharma-2852b927a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adisharmaruda1@gmail.com) 
 
-# 💻 Tech Stack:
+#  Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aditash20&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aditash20&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditash20&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
