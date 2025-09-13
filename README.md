@@ -6,7 +6,7 @@ My journey started with deep learning for automotive image analysis, where I tra
 
 I specialize in developing high-performance ML systems, blending model optimization, deployment, and edge computing to create solutions that are both scalable and practical. Whether it’s real-time robot path planning or automated automotive analysis, I enjoy solving problems where algorithms meet the physical world.<br>
 
-I’m always looking for ways to push models closer to production—faster, lighter, and smarter—all while keeping a sense of curiosity (and a steady supply of coffee ☕).<br>
+I’m always looking for ways to push models closer to production—faster, lighter, and smarter—all while keeping a sense of curiosity (and a steady supply of tea ☕).<br>
 
 #  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-sharma-2852b927a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adisharmaruda1@gmail.com) 
